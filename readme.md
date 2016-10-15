@@ -1,7 +1,7 @@
-# Ruby Çalıştayı
+# Ruby
 
 
- Haftalar      | Dökümanlar    
+ Haftalar      | Dokümanlar    
  ------------- |-------------
- 1. Hafta      | [Temeller](hafta-1.md)
- 2. Hafta      | Yakinda...   
+ 1. Hafta      | [Yorum Ekleme, Değişkenler, Ekrana Yazdırma](hafta-1.md)
+ 2. Hafta      | Yakında...   
